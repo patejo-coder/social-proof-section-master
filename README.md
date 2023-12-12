@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ( - )
-- Live Site URL: ( - )
+- Solution URL: (  )
+- Live Site URL: (https://patejo-coder.github.io/social-proof-section-master/)
 
 ## My process
 
