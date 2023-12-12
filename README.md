@@ -41,10 +41,10 @@ I defined a parent container, and assigned two child containers to it and from t
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Background-Image
+- *Semantic HTML5 markup*
+- *CSS custom properties*
+- *Flexbox*
+- *Background-Image*
 
 ### What I learned
 
@@ -56,5 +56,5 @@ I'm still a beginner, but I already realize that I need to continue developing m
 
 ## Author
 
-- Frontend Mentor - [@patejo-coder](https://www.frontendmentor.io/profile/patejo-coder)
-- Instagram - [@patejo_sama](https://www.instagram.com/patejo_sama/)
+- Frontend Mentor - ***[@patejo-coder](https://www.frontendmentor.io/profile/patejo-coder)***
+- Instagram - ***[@patejo_sama](https://www.instagram.com/patejo_sama/)***
